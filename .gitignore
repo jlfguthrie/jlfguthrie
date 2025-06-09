@@ -1,0 +1,25 @@
+# Ignore all files by default
+*
+
+# But track the README.md file
+!README.md
+
+# Also track .gitignore itself
+!.gitignore
+
+# Ignore any temporary or backup files
+*.tmp
+*.bak
+*~
+
+# Ignore any IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore any reference documents and strategy files
+github_profile_*.md
+refined_*.md
+*_strategy_*.md
+*_profile_*.md
