@@ -31,7 +31,6 @@
 *   🔭 I'm working on **enhancing `mcp-boilerplate` with new features** and **exploring novel WordPress plugin concepts**.
 *   🤝 I'm open to collaborating on **open-source AI projects, developer tools, or Cloudflare-based solutions**.
 *   💬 Ask me about anything related to **AI prompt engineering, Cloudflare development, WordPress architecture, Stripe integration, or building scalable web apps**.
-*   📫 How to reach me: `jlfguthrie@gmail.com`
 *   ⚡ Fun fact: I'm always eager to learn new technologies and solve challenging problems!
 
 ---
