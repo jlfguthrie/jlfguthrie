@@ -30,7 +30,7 @@
 *   🧠 I'm currently exploring **Advanced Language Models, serverless architectures on Cloudflare, and modern authentication patterns (like Hellō)**.
 *   💻 I'm most fluent in **TypeScript, PHP, JavaScript, and Python**.
 *   🔭 I'm working on **enhancing `mcp-boilerplate` with new features** and **exploring novel WordPress plugin concepts**.
-*   📦 I've been an **npm contributor since 2019**, publishing **`intellicommerce-woo-mcp`** - a commercial-grade MCP server for intelligent WooCommerce interactions with **190+ monthly downloads**.
+*   📦 I'm an **npm contributor**, publishing **`intellicommerce-woo-mcp`** - a commercial-grade MCP server for intelligent WooCommerce interactions.
 *   🤝 I'm open to collaborating on **open-source AI projects, developer tools, or Cloudflare-based solutions**.
 *   💬 Ask me about anything related to **AI prompt engineering, Cloudflare development, WordPress architecture, Stripe integration, or building scalable web apps**.
 *   ⚡ Fun fact: I'm always eager to learn new technologies and solve challenging problems!
@@ -68,11 +68,8 @@
   <a href="https://www.npmjs.com/package/intellicommerce-woo-mcp" target="_blank">
     <img src="https://img.shields.io/npm/v/intellicommerce-woo-mcp?style=for-the-badge&logo=npm&color=CB3837" alt="intellicommerce-woo-mcp version"/>
   </a>
-  <a href="https://www.npmjs.com/package/intellicommerce-woo-mcp" target="_blank">
-    <img src="https://img.shields.io/npm/dm/intellicommerce-woo-mcp?style=for-the-badge&logo=npm&color=CB3837" alt="Monthly Downloads"/>
-  </a>
-  <a href="https://www.npmjs.com/package/intellicommerce-woo-mcp" target="_blank">
-    <img src="https://img.shields.io/npm/dt/intellicommerce-woo-mcp?style=for-the-badge&logo=npm&color=CB3837" alt="Total Downloads"/>
+  <a href="https://www.npmjs.com/~jlfguthrie" target="_blank">
+    <img src="https://img.shields.io/badge/npm%20member%20since-2019-CB3837?style=for-the-badge&logo=npm" alt="npm member since 2019"/>
   </a>
 </p>
 
@@ -97,9 +94,21 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jlfguthrie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlfguthrie&layout=compact&langs_count=8&theme=dracula&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jlfguthrie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlfguthrie&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlfguthrie&theme=dracula&hide_border=true&background=0d1117" alt="GitHub Streak Stats"/>
+</p>
+
+<!-- Alternative GitHub Stats (uncomment if main stats fail) -->
+<!--
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jlfguthrie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jlfguthrie&layout=compact&langs_count=8&theme=dracula"/>
+</p>
+-->
 
 <!-- Footer -->
 <p align="center">
