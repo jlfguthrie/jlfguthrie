@@ -19,6 +19,7 @@
   <a href="https://www.youtube.com/@XstraAI" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a> &nbsp;
   <a href="https://intellicommerce.co.za" target="_blank"><img src="https://img.shields.io/badge/Intellicommerce-1A73E8.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" alt="Intellicommerce Portfolio"></a> &nbsp;
   <a href="https://profiles.wordpress.org/jlfguthrie/" target="_blank"><img src="https://img.shields.io/badge/WordPress-21759B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress Profile"></a> &nbsp;
+  <a href="https://www.npmjs.com/~jlfguthrie" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" alt="npm Profile"></a> &nbsp;
   <a href="https://xstra.ai" target="_blank"><img src="https://img.shields.io/badge/Xstra.ai-FF69B4.svg?&style=for-the-badge&logo=databricks&logoColor=white" alt="Xstra.ai"></a>
 </p>
 
@@ -29,6 +30,7 @@
 *   🧠 I'm currently exploring **Advanced Language Models, serverless architectures on Cloudflare, and modern authentication patterns (like Hellō)**.
 *   💻 I'm most fluent in **TypeScript, PHP, JavaScript, and Python**.
 *   🔭 I'm working on **enhancing `mcp-boilerplate` with new features** and **exploring novel WordPress plugin concepts**.
+*   📦 I've been an **npm contributor since 2019**, publishing **`intellicommerce-woo-mcp`** - a commercial-grade MCP server for intelligent WooCommerce interactions with **190+ monthly downloads**.
 *   🤝 I'm open to collaborating on **open-source AI projects, developer tools, or Cloudflare-based solutions**.
 *   💬 Ask me about anything related to **AI prompt engineering, Cloudflare development, WordPress architecture, Stripe integration, or building scalable web apps**.
 *   ⚡ Fun fact: I'm always eager to learn new technologies and solve challenging problems!
@@ -55,7 +57,40 @@
   <!-- Other Tools -->
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" alt="Git"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" alt="npm"/></a>
 </p>
+
+---
+
+### 📦 My npm Packages
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/intellicommerce-woo-mcp" target="_blank">
+    <img src="https://img.shields.io/npm/v/intellicommerce-woo-mcp?style=for-the-badge&logo=npm&color=CB3837" alt="intellicommerce-woo-mcp version"/>
+  </a>
+  <a href="https://www.npmjs.com/package/intellicommerce-woo-mcp" target="_blank">
+    <img src="https://img.shields.io/npm/dm/intellicommerce-woo-mcp?style=for-the-badge&logo=npm&color=CB3837" alt="Monthly Downloads"/>
+  </a>
+  <a href="https://www.npmjs.com/package/intellicommerce-woo-mcp" target="_blank">
+    <img src="https://img.shields.io/npm/dt/intellicommerce-woo-mcp?style=for-the-badge&logo=npm&color=CB3837" alt="Total Downloads"/>
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <h4>🛒 <a href="https://www.npmjs.com/package/intellicommerce-woo-mcp">intellicommerce-woo-mcp</a></h4>
+      <p><strong>✨IntelliCommerce✨ Woo MCP</strong></p>
+      <p>A commercial-grade Model Context Protocol server for intelligent WooCommerce interactions. Built with TypeScript and featuring AI-powered e-commerce automation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=TypeScript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/MCP-FF6B6B.svg?style=flat&logo=databricks&logoColor=white" alt="MCP"/>
+        <img src="https://img.shields.io/badge/WooCommerce-96588A.svg?style=flat&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
+      </p>
+      <p><em>Made with 🧡 in Cape Town 🇿🇦</em></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -68,5 +103,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <small>Last updated on: 9 June 2025</small>
+  <small>Last updated on: 11 June 2025</small>
 </p>
