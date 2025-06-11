@@ -10,7 +10,7 @@
 <p align="center">
   I'm a passionate AI Engineer and Full-Stack Developer based in beautiful South Africa 🇿🇦.
   <br />
-  I thrive on turning imaginative concepts into tangible, intelligent solutions. My journey has taken me from founding Xstra AI to focusing on my personal craft, developing AI-powered tools, robust WordPress plugins, and scalable cloud applications on platforms like Cloudflare.
+  I thrive on turning imaginative concepts into tangible, intelligent solutions. With 17+ years in tech spanning from enterprise solutions to AI innovation, my journey has taken me from working with global industry leaders to founding my own AI-powered companies.
 </p>
 
 <!-- Social & Professional Links -->
@@ -31,11 +31,31 @@
 *   💻 I'm most fluent in **TypeScript, PHP, JavaScript, and Python**.
 *   🔭 I'm working on **enhancing `mcp-boilerplate` with new features** and **exploring novel WordPress plugin concepts**.
 *   📦 I'm an **npm contributor since 2019**, publishing **`intellicommerce-woo-mcp`** - a commercial-grade MCP server for intelligent WooCommerce interactions.
-*   🤖 I specialize in **n8n automation workflows** for eCommerce, creating seamless business process automation solutions.
+*   🤖 I specialize in **automation workflows** (n8n, Zapier, Pabbly Connect) for eCommerce and business processes.
+*   🏗️ I'm building **AI-powered platforms** that solve real eCommerce challenges - from multi-store management to intelligent customer acquisition.
+*   📱 I architect **social media automation** and **customer communication** systems using WhatsApp Business API, Meta APIs, and Chatwoot.
 *   🤝 I'm open to collaborating on **open-source AI projects, developer tools, or Cloudflare-based solutions**.
-*   💬 Ask me about anything related to **AI prompt engineering, Cloudflare development, WordPress architecture, Stripe integration, n8n automation, or building scalable web apps**.
-*   ⚡ Fun fact: I'm always eager to learn new technologies and solve challenging problems!
+*   💬 Ask me about anything related to **AI prompt engineering, eCommerce automation, cloud architecture, or building scalable multi-platform integrations**.
+*   ⚡ Fun fact: I manage communities with **80k+ combined followers** and help businesses extract leads intelligently from social platforms!
 *   🗓️ **GitHub member since October 2018** - 7+ years of continuous development!
+
+---
+
+### 💼 Professional Experience
+
+#### 🚀 **Founder & Entrepreneur** *Since 2008*
+Building innovative technology companies focused on AI automation and eCommerce solutions.
+
+#### 🏢 **Enterprise Leadership**
+- **Product Manager** at [**Mix Telematics**](https://www.mixtelematics.com/) - Leading global fleet management and telematics solutions (1.8M+ connected vehicles worldwide)
+- **Technical Sales Engineer** at [**Intergraph (now Hexagon)**](https://hexagon.com/intergraph) - GeoSpatial solutions for government, councils, power & water utilities, and offshore oil operations in the UK
+- **International Defense Projects** - Delivered solutions for Singapore's Defence Force and other government entities
+
+#### 🎓 **Certifications & Credentials**
+- **Certified Oracle DBA** - Database administration and enterprise solutions
+- **CompTIA A+** - IT infrastructure and technical foundations
+
+*17+ years of proven expertise from technical implementation to product management, spanning multinational corporations and government sectors.*
 
 ---
 
@@ -55,9 +75,30 @@
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Cloudflare-F38020.svg?&style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"/></a>
   <a href="#"><img src="https://img.shields.io/badge/WordPress-21759B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Magento-EE672F.svg?&style=for-the-badge&logo=Magento&logoColor=white" alt="Magento"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Stripe-626CD9.svg?&style=for-the-badge&logo=Stripe&logoColor=white" alt="Stripe"/></a>
+  <br />
+  <!-- Automation & APIs -->
   <a href="#"><img src="https://img.shields.io/badge/n8n-EA4B71.svg?&style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
-  <!-- Other Tools -->
+  <a href="#"><img src="https://img.shields.io/badge/Zapier-FF4A00.svg?&style=for-the-badge&logo=Zapier&logoColor=white" alt="Zapier"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pabbly-4285F4.svg?&style=for-the-badge&logo=Google&logoColor=white" alt="Pabbly Connect"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/WhatsApp_Business-25D366.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Business"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Meta_APIs-1877F2.svg?&style=for-the-badge&logo=Meta&logoColor=white" alt="Meta APIs"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Chatwoot-1F93FF.svg?&style=for-the-badge&logo=LiveChat&logoColor=white" alt="Chatwoot"/></a>
+  <br />
+  <!-- Cloud & Infrastructure -->
+  <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4.svg?&style=for-the-badge&logo=Google-Cloud&logoColor=white" alt="Google Cloud"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Azure-0078D4.svg?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" alt="Azure"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" alt="Git"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" alt="npm"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Chatwoot-1F93FF.svg?&style=for-the-badge&logo=LiveChat&logoColor=white" alt="Chatwoot"/></a>
+  <br />
+  <!-- Cloud & Infrastructure -->
+  <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4.svg?&style=for-the-badge&logo=Google-Cloud&logoColor=white" alt="Google Cloud"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Azure-0078D4.svg?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" alt="Azure"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" alt="Git"/></a>
   <a href="#"><img src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" alt="npm"/></a>
