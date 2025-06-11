@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://placehold.co/1200x300/0D1117/FFFFFF?text=John+Guthrie+-+AI+%26+Software+Engineer" alt="John Guthrie - AI & Software Engineer"/>
+  <img src="https://placehold.co/1200x300/0D1117/00FF41?text=John+Guthrie+-+AI+%26+Software+Engineer" alt="John Guthrie - AI & Software Engineer"/>
   <!-- Consider creating a personalized header on Canva/Figma for an even more unique touch! -->
 </p>
 
@@ -15,12 +15,13 @@
 
 <!-- Social & Professional Links -->
 <p align="center">
-  <a href="https://x.com/xstraai" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter"></a> &nbsp;
+  <a href="https://x.com/jlfguthrie" target="_blank"><img src="https://img.shields.io/badge/X-@jlfguthrie-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="John's X Profile"></a> &nbsp;
+  <a href="https://x.com/xstraai" target="_blank"><img src="https://img.shields.io/badge/X-@XstraAI-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="XstraAI X Profile"></a> &nbsp;
   <a href="https://www.youtube.com/@XstraAI" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a> &nbsp;
   <a href="https://intellicommerce.co.za" target="_blank"><img src="https://img.shields.io/badge/Intellicommerce-1A73E8.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" alt="Intellicommerce Portfolio"></a> &nbsp;
   <a href="https://profiles.wordpress.org/jlfguthrie/" target="_blank"><img src="https://img.shields.io/badge/WordPress-21759B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress Profile"></a> &nbsp;
   <a href="https://www.npmjs.com/~jlfguthrie" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" alt="npm Profile"></a> &nbsp;
-  <a href="https://xstra.ai" target="_blank"><img src="https://img.shields.io/badge/Xstra.ai-FF69B4.svg?&style=for-the-badge&logo=databricks&logoColor=white" alt="Xstra.ai"></a>
+  <a href="https://xstra.ai" target="_blank"><img src="https://img.shields.io/badge/Xstra.ai-00FF41.svg?&style=for-the-badge&logo=databricks&logoColor=black" alt="Xstra.ai"></a>
 </p>
 
 ---
@@ -36,7 +37,7 @@
 *   📱 I architect **social media automation** and **customer communication** systems using WhatsApp Business API, Meta APIs, and Chatwoot.
 *   🤝 I'm open to collaborating on **open-source AI projects, developer tools, or Cloudflare-based solutions**.
 *   💬 Ask me about anything related to **AI prompt engineering, eCommerce automation, cloud architecture, or building scalable multi-platform integrations**.
-*   ⚡ Fun fact: I manage communities with **80k+ combined followers** and help businesses extract leads intelligently from social platforms!
+*   ⚡ Fun fact: I manage communities with **250k+ combined followers** and help businesses extract leads intelligently from social platforms!
 *   🗓️ **GitHub member since October 2018** - 7+ years of continuous development!
 
 ---
@@ -52,6 +53,10 @@ Building innovative technology companies focused on AI automation and eCommerce 
 - **International Defense Projects** - Delivered solutions for Singapore's Defence Force and other government entities
 
 #### 🎓 **Certifications & Credentials**
+- **BBA (Bachelor of Business Administration)** - Business strategy and management fundamentals
+- **Certificate C/C++** - Low-level programming and system development
+- **Visual Studio Code Expertise** - Advanced IDE proficiency and extension development
+- **Google Ads Account Manager** - Digital marketing and campaign optimization
 - **Certified Oracle DBA** - Database administration and enterprise solutions
 - **CompTIA A+** - IT infrastructure and technical foundations
 
@@ -93,15 +98,6 @@ Building innovative technology companies focused on AI automation and eCommerce 
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" alt="Git"/></a>
   <a href="#"><img src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" alt="npm"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Chatwoot-1F93FF.svg?&style=for-the-badge&logo=LiveChat&logoColor=white" alt="Chatwoot"/></a>
-  <br />
-  <!-- Cloud & Infrastructure -->
-  <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4.svg?&style=for-the-badge&logo=Google-Cloud&logoColor=white" alt="Google Cloud"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Azure-0078D4.svg?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" alt="Azure"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" alt="Git"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" alt="npm"/></a>
 </p>
 
 <!-- Dynamic Coding Activity -->
@@ -109,12 +105,10 @@ Building innovative technology companies focused on AI automation and eCommerce 
 <summary>📈 Coding Activity & Language Stats</summary>
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jlfguthrie&theme=dracula&hide_border=true&bg_color=0d1117" alt="WakaTime Stats"/>
-</p>
+
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jlfguthrie&theme=dracula&hide_border=true&background=0d1117" alt="Alternative Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=jlfguthrie&theme=neon&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Alternative Streak Stats"/>
 </p>
 
 </details>
@@ -153,17 +147,12 @@ Building innovative technology companies focused on AI automation and eCommerce 
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jlfguthrie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlfguthrie&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=0d1117&cache_seconds=1800&include_all_commits=true&count_private=true&exclude_repo=jlfguthrie"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlfguthrie&theme=dracula&hide_border=true&background=0d1117" alt="GitHub Streak Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jlfguthrie&theme=neon&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak Stats"/>
 </p>
 
 <!-- Dynamic Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jlfguthrie&theme=dracula&hide_border=true&bg_color=0d1117" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jlfguthrie&theme=neon&hide_border=true&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff" alt="GitHub Activity Graph"/>
 </p>
 
 <!-- Alternative GitHub Stats with different parameters -->
@@ -171,14 +160,11 @@ Building innovative technology companies focused on AI automation and eCommerce 
 <summary>📈 Alternative Stats View</summary>
 <br>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jlfguthrie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jlfguthrie&layout=compact&langs_count=10&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
-</p>
+
 
 <!-- Trophies for achievements -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jlfguthrie&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jlfguthrie&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&title_color=00FF41&text_color=ffffff" alt="GitHub Trophies"/>
 </p>
 
 </details>
