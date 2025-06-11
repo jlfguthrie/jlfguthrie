@@ -30,10 +30,12 @@
 *   🧠 I'm currently exploring **Advanced Language Models, serverless architectures on Cloudflare, and modern authentication patterns (like Hellō)**.
 *   💻 I'm most fluent in **TypeScript, PHP, JavaScript, and Python**.
 *   🔭 I'm working on **enhancing `mcp-boilerplate` with new features** and **exploring novel WordPress plugin concepts**.
-*   📦 I'm an **npm contributor**, publishing **`intellicommerce-woo-mcp`** - a commercial-grade MCP server for intelligent WooCommerce interactions.
+*   📦 I'm an **npm contributor since 2019**, publishing **`intellicommerce-woo-mcp`** - a commercial-grade MCP server for intelligent WooCommerce interactions.
+*   🤖 I specialize in **n8n automation workflows** for eCommerce, creating seamless business process automation solutions.
 *   🤝 I'm open to collaborating on **open-source AI projects, developer tools, or Cloudflare-based solutions**.
-*   💬 Ask me about anything related to **AI prompt engineering, Cloudflare development, WordPress architecture, Stripe integration, or building scalable web apps**.
+*   💬 Ask me about anything related to **AI prompt engineering, Cloudflare development, WordPress architecture, Stripe integration, n8n automation, or building scalable web apps**.
 *   ⚡ Fun fact: I'm always eager to learn new technologies and solve challenging problems!
+*   🗓️ **GitHub member since October 2018** - 7+ years of continuous development!
 
 ---
 
@@ -54,11 +56,27 @@
   <a href="#"><img src="https://img.shields.io/badge/Cloudflare-F38020.svg?&style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"/></a>
   <a href="#"><img src="https://img.shields.io/badge/WordPress-21759B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Stripe-626CD9.svg?&style=for-the-badge&logo=Stripe&logoColor=white" alt="Stripe"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/n8n-EA4B71.svg?&style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
   <!-- Other Tools -->
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" alt="Git"/></a>
   <a href="#"><img src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" alt="npm"/></a>
 </p>
+
+<!-- Dynamic Coding Activity -->
+<details>
+<summary>📈 Coding Activity & Language Stats</summary>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jlfguthrie&theme=dracula&hide_border=true&bg_color=0d1117" alt="WakaTime Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jlfguthrie&theme=dracula&hide_border=true&background=0d1117" alt="Alternative Streak Stats"/>
+</p>
+
+</details>
 
 ---
 
@@ -95,20 +113,34 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jlfguthrie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlfguthrie&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlfguthrie&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=0d1117&cache_seconds=1800&include_all_commits=true&count_private=true&exclude_repo=jlfguthrie"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlfguthrie&theme=dracula&hide_border=true&background=0d1117" alt="GitHub Streak Stats"/>
 </p>
 
-<!-- Alternative GitHub Stats (uncomment if main stats fail) -->
-<!--
+<!-- Dynamic Activity Graph -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jlfguthrie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jlfguthrie&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jlfguthrie&theme=dracula&hide_border=true&bg_color=0d1117" alt="GitHub Activity Graph"/>
 </p>
--->
+
+<!-- Alternative GitHub Stats with different parameters -->
+<details>
+<summary>📈 Alternative Stats View</summary>
+<br>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jlfguthrie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jlfguthrie&layout=compact&langs_count=10&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+</p>
+
+<!-- Trophies for achievements -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jlfguthrie&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+</details>
 
 <!-- Footer -->
 <p align="center">
