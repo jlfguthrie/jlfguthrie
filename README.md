@@ -18,10 +18,10 @@
   <a href="https://x.com/jlfguthrie" target="_blank"><img src="https://img.shields.io/badge/X-@jlfguthrie-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="John's X Profile"></a> &nbsp;
   <a href="https://x.com/xstraai" target="_blank"><img src="https://img.shields.io/badge/X-@XstraAI-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="XstraAI X Profile"></a> &nbsp;
   <a href="https://www.youtube.com/@XstraAI" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a> &nbsp;
-  <a href="https://intellicommerce.co.za" target="_blank"><img src="https://img.shields.io/badge/Intellicommerce-1A73E8.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" alt="Intellicommerce Portfolio"></a> &nbsp;
+  <a href="https://intellicommerce.co.za" target="_blank"><img src="https://img.shields.io/badge/🌀Intellicommerce-1A73E8.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" alt="Intellicommerce Portfolio"></a> &nbsp;
   <a href="https://profiles.wordpress.org/jlfguthrie/" target="_blank"><img src="https://img.shields.io/badge/WordPress-21759B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress Profile"></a> &nbsp;
   <a href="https://www.npmjs.com/~jlfguthrie" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" alt="npm Profile"></a> &nbsp;
-  <a href="https://xstra.ai" target="_blank"><img src="https://img.shields.io/badge/Xstra.ai-00FF41.svg?&style=for-the-badge&logo=databricks&logoColor=black" alt="Xstra.ai"></a>
+  <a href="https://xstra.ai" target="_blank"><img src="https://img.shields.io/badge/✨Xstra.ai-00FF41.svg?&style=for-the-badge&logo=databricks&logoColor=black" alt="Xstra.ai"></a>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ### 💼 Professional Experience
 
 #### 🚀 **Founder & Entrepreneur** *Since 2008*
-Building innovative technology companies focused on AI automation and eCommerce solutions.
+Building innovative technology companies focused on AI automation and eCommerce solutions: ✨**Xstra AI**, 🌤️**Astrata Cloud**, and 🌀**IntelliCommerce**.
 
 #### 🏢 **Enterprise Leadership**
 - **Product Manager** at [**Mix Telematics**](https://www.mixtelematics.com/) - Leading global fleet management and telematics solutions (1.8M+ connected vehicles worldwide)
@@ -130,7 +130,7 @@ Building innovative technology companies focused on AI automation and eCommerce 
   <tr>
     <td align="center" width="300">
       <h4>🛒 <a href="https://www.npmjs.com/package/intellicommerce-woo-mcp">intellicommerce-woo-mcp</a></h4>
-      <p><strong>✨IntelliCommerce✨ Woo MCP</strong></p>
+      <p><strong>✨🌀IntelliCommerce✨ Woo MCP</strong></p>
       <p>A commercial-grade Model Context Protocol server for intelligent WooCommerce interactions. Built with TypeScript and featuring AI-powered e-commerce automation.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=TypeScript&logoColor=white" alt="TypeScript"/>
@@ -147,12 +147,25 @@ Building innovative technology companies focused on AI automation and eCommerce 
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jlfguthrie&theme=neon&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak Stats"/>
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jlfguthrie&show_icons=true&theme=neon&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00FF41&icon_color=00FF41&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlfguthrie&layout=compact&theme=neon&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00FF41&langs_count=8" alt="Top Languages"/>
 </p>
 
 <!-- Dynamic Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jlfguthrie&theme=neon&hide_border=true&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff" alt="GitHub Activity Graph"/>
+</p>
+
+<!-- Key Statistics -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Repos-69-00FF41?style=for-the-badge&logo=github&logoColor=white" alt="Total Repositories"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-10-00FF41?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories"/>
+  <img src="https://img.shields.io/badge/Stars%20Earned-14-00FF41?style=for-the-badge&logo=github&logoColor=white" alt="Stars Earned"/>
+  <img src="https://img.shields.io/badge/Followers-4-00FF41?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Following-22-00FF41?style=for-the-badge&logo=github&logoColor=white" alt="Following"/>
+  <img src="https://img.shields.io/badge/Code%20Contributions-1056-00FF41?style=for-the-badge&logo=github&logoColor=white" alt="Code Contributions"/>
 </p>
 
 <!-- Alternative GitHub Stats with different parameters -->
@@ -171,5 +184,5 @@ Building innovative technology companies focused on AI automation and eCommerce 
 
 <!-- Footer -->
 <p align="center">
-  <small>Last updated on: 11 June 2025</small>
+  <small>Last updated on: 27 September 2025</small>
 </p>
