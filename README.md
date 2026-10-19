@@ -12,10 +12,4 @@ My work spans requirements, product decisions, development, integration and ongo
 
 I work with TypeScript, JavaScript, Python, PHP and SQL. Most of my commercial work is maintained in private repositories.
 
-## Public repositories
-
-- [Ghostty terminal dotfiles](https://github.com/jlfguthrie/ghostty-terminal-dotfiles) — my macOS terminal and editor configuration, with an optional Ollama helper.
-- [Cline prompts and notes](https://github.com/jlfguthrie/Cline-Prompts-Tips-and-Tricks) — prompts, project instructions and context templates.
-- [Application cheat sheets](https://github.com/jlfguthrie/Cheat-Sheets-for-Popular-Apps) — CapCut keyboard references for macOS and Windows.
-
 [LinkedIn](https://www.linkedin.com/in/jlfguthrie/) · [IntelliCommerce](https://intellicommerce.co.za)
