@@ -1,24 +1,21 @@
 # John Guthrie
 
-Founder and AI engineer based in South Africa.
+I build business applications, commerce integrations and automation. Based in South Africa.
 
-I build IntelliCommerce OPS and practical automation for ecommerce teams, with a focus on WooCommerce, Cloudflare, AI workflows, and operational tooling that helps stores move faster without adding more manual work.
+My work spans requirements, product decisions, development, integration and ongoing operation. My background includes product management, technical consulting and enterprise implementation in fleet management and geospatial systems.
 
-## Current Focus
+## Current work
 
-- IntelliCommerce OPS: multi-store ecommerce operations and automation
-- AI-assisted workflows for WooCommerce and customer acquisition
-- Cloudflare Workers, serverless integrations, and modern auth
-- WordPress, PHP, TypeScript, JavaScript, and Python
+- Business systems and e-commerce integrations using WooCommerce, Cloudflare and Google Cloud.
+- Web applications and native iOS/Android apps, from requirements through release and support.
+- AI agent workflows, tool integrations and reusable development instructions.
 
-## Background
+I work with TypeScript, JavaScript, Python, PHP and SQL. Most of my commercial work is maintained in private repositories.
 
-I have 17+ years of experience across product management, technical sales engineering, enterprise software, and founder-led product work.
+## Public repositories
 
-Previous roles include Product Manager at Mix Telematics and Technical Sales Engineer at Intergraph, now part of Hexagon. My work has covered fleet management, geospatial systems, government and utility projects, ecommerce, and business automation.
+- [Ghostty terminal dotfiles](https://github.com/jlfguthrie/ghostty-terminal-dotfiles) — my macOS terminal and editor configuration, with an optional Ollama helper.
+- [Cline prompts and notes](https://github.com/jlfguthrie/Cline-Prompts-Tips-and-Tricks) — prompts, project instructions and context templates.
+- [Application cheat sheets](https://github.com/jlfguthrie/Cheat-Sheets-for-Popular-Apps) — CapCut keyboard references for macOS and Windows.
 
-## Links
-
-- IntelliCommerce: https://intellicommerce.co.za
-- X: https://x.com/jlfguthrie
-- WordPress: https://profiles.wordpress.org/jlfguthrie/
+[LinkedIn](https://www.linkedin.com/in/jlfguthrie/) · [IntelliCommerce](https://intellicommerce.co.za)
